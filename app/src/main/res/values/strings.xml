@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreePassages</string>
+    <string name="button1">Get</string>
+    <string name="button2">Rick</string>
+    <string name="button3">Rolled</string>
+    <string name="passage_activity">Passage Activity</string>
+</resources>
